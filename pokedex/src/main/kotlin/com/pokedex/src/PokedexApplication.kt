@@ -1,4 +1,4 @@
-package com.pokedex.src.application
+package com.pokedex.src
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
